@@ -1,5 +1,5 @@
 ---
-title: python虚拟环境配合
+title: python虚拟环境配置
 tags: life
 ---
 
